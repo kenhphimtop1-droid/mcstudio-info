@@ -3,8 +3,6 @@
   "min_version": "1.0.1",
   "download_url": "",
   "note": "Bản cập nhật ngày 18/11/2026",
-  "revoked_machines": [
-    "A0A1-826E-338F-E833"
-  ],
-  "sig": "wyB478DzF68kBpP4KqYrZZOv3P/Ob1O0ECwvNlfvgsHv1sa4JCuVluana7MQlU65InI3RvSbYPKin5Z+Xw9sDQ=="
+  "revoked_machines": [],
+  "sig": "q55U/YFp2rEnnoGjVexC0DAzCNIqhXrTESnyAZPAokbeH+D6ilHq4wM0AHd9mYYG8CjP5o/0bKHfN4Ntl5RlCg=="
 }
