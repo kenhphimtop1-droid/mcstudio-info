@@ -1,8 +1,8 @@
 {
   "latest_version": "1.0.2",
-  "min_version": "1.0.1",
-  "download_url": "",
-  "note": "Bản cập nhật ngày 18/11/2026",
+  "min_version": "1.0.2",
+  "download_url": "https://pub-05dffe951f01423c96e781e115202058.r2.dev/mc-studio/MCStudio_Setup_1.0.2.exe",
+  "note": "Bản cập nhật ngày 25-11-2026",
   "revoked_machines": [],
-  "sig": "HygL/bDOG+TgaRbIpPslNOIqR4Y47h/6V9SldvnaGe94nP+96vmbPFqjKmoN7SsJLxUkELCOnWBrEetHptkiBg=="
+  "sig": "9ClFItaR80pfIITbAXAJRLxyZEpHJAPyWSExOGmfhqZogYkqQE4dXEkEPSol0cPq/bOcMg/BpHQmxJQN06tSAg=="
 }
